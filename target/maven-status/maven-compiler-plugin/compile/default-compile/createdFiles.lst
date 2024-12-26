@@ -1,0 +1,4 @@
+org\stierprogrammer\vitality\Vitality.class
+org\stierprogrammer\vitality\configs\HomeConfig.class
+org\stierprogrammer\vitality\commands\HomeCommand.class
+org\stierprogrammer\vitality\commands\SetHomeCommand.class

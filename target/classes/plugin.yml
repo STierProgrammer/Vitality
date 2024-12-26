@@ -1,0 +1,10 @@
+name: Vitality
+version: '1.0-SNAPSHOT'
+main: org.stierprogrammer.vitality.Vitality
+api-version: '1.21.1'
+
+commands:
+  setHome:
+    description: Allows you to set home!
+  home:
+    description: Teleports you to your home!
